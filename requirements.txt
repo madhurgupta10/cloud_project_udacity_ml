@@ -1,0 +1,6 @@
+Flask
+numpy
+pandas
+# using old version beacause new version is causing a error
+scikit-learn==0.20.2
+pylint
